@@ -3,6 +3,7 @@
 Search repository sample app 
 
 <p>Dagger 2</p>
-RxJava & RxAndroid
-Architecture Components
-Data Binding Library
+<p>RxJava & RxAndroid</p>
+<p>Architecture Components</p>
+<p>Data Binding Library</p>
+<p>Retrofit</p>
